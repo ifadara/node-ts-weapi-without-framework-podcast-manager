@@ -1,0 +1,41 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": [
+            "saúde",
+            "bodybuilding",
+            "esporte"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHELLO - Flow #336",
+        "videoId": "4KDGTdiOV4I",
+        "categories": [
+            "esporte",
+            "corrida"
+        ]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "DJ Olori - Flow #420",
+        "videoId": "5LEHUejPW5J",
+        "categories": [
+            "esin ibile orisa",
+            "jardinagem",
+            "programação",
+            "turntablism"
+            ]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "Xuxa - Venus #666",
+        "videoId": "3JCFTchNU3H",
+        "categories": [
+            "só para baixinhos"
+            ]
+    }
+
+    
+]
